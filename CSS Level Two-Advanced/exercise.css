@@ -1,0 +1,32 @@
+h2{
+  font-family: "Sriracha";
+  text-align: center;
+}
+table{
+  width: 70%;
+  margin: auto;
+  border-spacing: 15px 0px;
+}
+/* table,tr,td{
+  border: 5px solid black;
+} */
+td{
+  height: 500px;
+
+}
+#first{
+  background-color: #EE6C4D;
+
+}
+#second{
+  background-color: #F38D68;
+}
+#third{
+  background-color: #662C91;
+}
+#fourth{
+  background-color: #17A398;
+}
+#fifth{
+  background-color: #33312E;
+}

@@ -1,0 +1,18 @@
+body{
+  background: url(https://www.flags-and-anthems.com/media/flags/flagge-serbien.gif);
+  background-repeat: no-repeat;
+}
+div{
+  background-color: lightblue;
+  /* border: 5px solid black; */
+  border-color: black;
+  border-width: 5px;
+  border-style: dotted;
+}
+p{
+  color: blue;
+}
+span{
+  background: red;
+  color: white;
+}
